@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Mandalore;
+    src: url("Mandalore-K77lD.otf") format("opentype");
+}
+
+body{
+    font-family: Mandalore;
+}
