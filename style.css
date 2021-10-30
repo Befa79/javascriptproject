@@ -3,15 +3,12 @@
     src: url("Mandalore-K77lD.otf") format("opentype");
 }
 
-body{
-    font-family: Mandalore;
-}
 
 /* --------- Global style */
 
 body {
     background-color: white;
-    font-family: "Raleway", sans-serif;
+    font-family: Mandalore;
     color: #445361;
     text-align: center;
 }
@@ -27,6 +24,11 @@ body {
     height: 40px;
     padding-right: 5px;
 }
+
+a:link {
+    text-decoration: none;
+}
+
 
 /* --------- Game layout */
 
